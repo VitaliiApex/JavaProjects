@@ -1,4 +1,4 @@
-package CycleDisplayNumbersInConsole;
+package L003_CycleDisplayNumbersInConsole;
 
 public class CycleDisplayNumbersInConsole {
 
