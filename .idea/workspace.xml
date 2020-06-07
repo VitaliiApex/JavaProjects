@@ -12,9 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleDisplayNumbersInConsole/CycleDisplayNumbersInConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L003_CycleDisplayNumbersInConsole/CycleDisplayNumbersInConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001_DataTypes/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DisplayNumbersInConsole/DisplayNumbersInConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L002_DisplayNumbersInConsole/DisplayNumbersInConsole.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayCreateFindCalculateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L004_ArrayCreateFindCalculateSort.ArrayCreateFindCalculateSort" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L004_ArrayCreateFindCalculateSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DisplayNumbersInConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L002_DisplayNumbersInConsole.DisplayNumbersInConsole" />
       <module name="JavaProjects" />
@@ -58,8 +68,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L004_ArrayCreateFindCalculateSort.Main" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L004_ArrayCreateFindCalculateSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayCreateFindCalculateSort" />
         <item itemvalue="Application.DisplayNumbersInConsole" />
       </list>
     </recent_temporary>
@@ -96,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591506563313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ProjectDone">
+      <created>1591507173435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591507173435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,9 +169,9 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1209" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591504991490" />
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1591506574537">
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1591507188827">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591506574537" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591507188827" />
   </component>
 </project>
