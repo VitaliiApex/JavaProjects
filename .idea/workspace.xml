@@ -11,6 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone">
+      <change afterPath="$PROJECT_DIR$/src/L005_DoubleArray/DoubleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L006_Scaner/Scaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L007_ATM_Vitalii/ATM_Vitalii.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +32,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cycpjSg7zj5E3JXVCKgrlVggqO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +46,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Scaner">
     <configuration name="ArrayCreateFindCalculateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L004_ArrayCreateFindCalculateSort.ArrayCreateFindCalculateSort" />
       <module name="JavaProjects" />
@@ -55,12 +60,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayNumbersInConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L002_DisplayNumbersInConsole.DisplayNumbersInConsole" />
+    <configuration name="DoubleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L005_DoubleArray.DoubleArray" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L002_DisplayNumbersInConsole.*" />
+          <option name="PATTERN" value="L005_DoubleArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L005_DoubleArray.Main" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L005_DoubleArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L006_Scaner.Scaner" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L006_Scaner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scaner" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.DoubleArray" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ArrayCreateFindCalculateSort" />
-        <item itemvalue="Application.DisplayNumbersInConsole" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591507173435</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ProjectDone">
+      <created>1591513654731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591513654731</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,25 +193,25 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="113" y="125" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1591504516022" />
-    <state width="1209" height="267" key="GridCell.Tab.0.bottom" timestamp="1591504991490">
+    <state width="993" height="267" key="GridCell.Tab.0.bottom" timestamp="1591513619475">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1209" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591504991490" />
-    <state width="1209" height="267" key="GridCell.Tab.0.center" timestamp="1591504991489">
+    <state width="993" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591513619475" />
+    <state width="993" height="267" key="GridCell.Tab.0.center" timestamp="1591513619474">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1209" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591504991489" />
-    <state width="1209" height="267" key="GridCell.Tab.0.left" timestamp="1591504991489">
+    <state width="993" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591513619474" />
+    <state width="993" height="267" key="GridCell.Tab.0.left" timestamp="1591513619474">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1209" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591504991489" />
-    <state width="1209" height="267" key="GridCell.Tab.0.right" timestamp="1591504991490">
+    <state width="993" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591513619474" />
+    <state width="993" height="267" key="GridCell.Tab.0.right" timestamp="1591513619475">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1209" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591504991490" />
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1591507188827">
+    <state width="993" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591513619475" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1591513668840">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591507188827" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591513668840" />
   </component>
 </project>
