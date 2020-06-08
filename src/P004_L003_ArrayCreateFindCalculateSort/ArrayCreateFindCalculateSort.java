@@ -1,4 +1,4 @@
-package L004_ArrayCreateFindCalculateSort;
+package P004_L003_ArrayCreateFindCalculateSort;
 
 public class ArrayCreateFindCalculateSort {
 

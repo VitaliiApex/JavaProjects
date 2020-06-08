@@ -1,4 +1,4 @@
-package L002_DisplayNumbersInConsole;
+package P002_L002_DisplayNumbersInConsole;
 
 public class DisplayNumbersInConsole {
 

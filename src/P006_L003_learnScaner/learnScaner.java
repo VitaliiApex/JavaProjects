@@ -1,4 +1,4 @@
-package L006_Scaner;
+package P006_L003_learnScaner;
 
 import java.util.Scanner;
 

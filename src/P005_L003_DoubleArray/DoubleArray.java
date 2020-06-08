@@ -1,4 +1,4 @@
-package L005_DoubleArray;
+package P005_L003_DoubleArray;
 
 public class DoubleArray {
     public static void main(String[] args) {

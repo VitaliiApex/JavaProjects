@@ -2,7 +2,7 @@ package ATMVitalii;
 
     import java.util.Scanner;
 
-public class ATMVitalii {
+public class BankATM_Apex {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -12,11 +12,12 @@ public class ATMVitalii {
         String[] transaction1 = new String[20];
         int[] transaction2 = new int[10];
         int[] transaction3 = new int[10];
-        System.out.println("Welcome to ATM");
+        System.out.println("Welcome to ATM Apex Bank!");
+        System.out.println("");
         while (work) {
             System.out.println("Press 1 to see your balance");
             System.out.println("Press 2 to add money");
-            System.out.println("Press 3 to get cash");
+            System.out.println("Press 3 to get money");
             System.out.println("Press 4 to Exit");
 
             String operation = sc.next();
@@ -26,7 +27,7 @@ public class ATMVitalii {
                     break;
                 }
                 case "2": {
-                    System.out.print("How match you would like add? ");
+                    System.out.print("How match would you like to add? ");
                     int addMoney = sc.nextInt();
                     balance +=addMoney;
                     if (transactionIndex < transaction2.length){
@@ -34,13 +35,13 @@ public class ATMVitalii {
                         transaction2[transactionIndex] = addMoney;
                         transaction3[transactionIndex] = balance;
                         transactionIndex++;}
-                    System.out.println("Transaction is successful");
-                    System.out.println("Your balance is: "+balance+"\n");
+                    System.out.println("Transaction was successful");
+                    System.out.println("Your current balance is: "+balance+"\n");
                     break;
                 }
                 case "3": {
-                    System.out.println("Your balance is: "+balance);
-                    System.out.print("How match you would like get? ");
+                    System.out.println("Your current balance is: "+balance);
+                    System.out.print("How match would you like to get? ");
                     int withdraw = sc.nextInt();
                     if (withdraw<=balance){
                         balance -= withdraw;
@@ -49,7 +50,7 @@ public class ATMVitalii {
                             transaction2[transactionIndex] -= withdraw;
                             transaction3[transactionIndex] = balance;
                             transactionIndex++;}
-                        System.out.println("Transaction is successful");
+                        System.out.println("Transaction was successful");
                         System.out.println("Your balance is: "+balance+"\n");
                     }else
                         System.out.println("You have not enough money for withdraw: "+ withdraw +" Because of your balance is: "+balance+"\n");
@@ -57,12 +58,12 @@ public class ATMVitalii {
                 }
 
                 case "4": {
-                    System.out.println("Have a nice Day!");
+                    System.out.println("Exit was successful!");
                     work = false;
                     break;
                 }
                 default: {
-                    System.out.println("You did wrong input. Try again");
+                    System.out.println("Input is incorrect. Please, try again");
                 }
             }
         }
