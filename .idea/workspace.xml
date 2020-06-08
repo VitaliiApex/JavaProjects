@@ -10,16 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L001_DataTypes/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P001_L001_DataTypes/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L002_DisplayNumbersInConsole/DisplayNumbersInConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P002_L002_DisplayNumbersInConsole/DisplayNumbersInConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L003_CycleDisplayNumbersInConsole/CycleDisplayNumbersInConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P003_L002_DisplayNumbersInConsoleByCycle/DisplayNumbersInConsoleByCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L004_ArrayCreateFindCalculateSort/ArrayCreateFindCalculateSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P004_L003_ArrayCreateFindCalculateSort/ArrayCreateFindCalculateSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L005_DoubleArray/DoubleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P005_L003_DoubleArray/DoubleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L006_Scaner/learnScaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P006_L003_learnScaner/learnScaner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L007_ATMVitalii/ATMVitalii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P007_L003_BankATM/BankATM_Apex.java" afterDir="false" />
-    </list>
+    <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -250,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591597274950</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ProjectDone">
+      <created>1591598530299</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591598530299</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,30 +274,30 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="113" y="125" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1591544047745" />
-    <state width="1067" height="267" key="GridCell.Tab.0.bottom" timestamp="1591598007921">
+    <state width="1357" height="267" key="GridCell.Tab.0.bottom" timestamp="1591598359066">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1067" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591598007921" />
-    <state width="1067" height="267" key="GridCell.Tab.0.center" timestamp="1591598007920">
+    <state width="1357" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591598359066" />
+    <state width="1357" height="267" key="GridCell.Tab.0.center" timestamp="1591598359065">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1067" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591598007920" />
-    <state width="1067" height="267" key="GridCell.Tab.0.left" timestamp="1591598007920">
+    <state width="1357" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591598359065" />
+    <state width="1357" height="267" key="GridCell.Tab.0.left" timestamp="1591598359065">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1067" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591598007920" />
-    <state width="1067" height="267" key="GridCell.Tab.0.right" timestamp="1591598007921">
+    <state width="1357" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591598359065" />
+    <state width="1357" height="267" key="GridCell.Tab.0.right" timestamp="1591598359066">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1067" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591598007921" />
+    <state width="1357" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591598359066" />
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor" timestamp="1591543806991">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1591543806991" />
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1591597280727">
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1591598505363">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591597280727" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591598505363" />
     <state x="30" y="147" key="new project wizard" timestamp="1591541878558">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
