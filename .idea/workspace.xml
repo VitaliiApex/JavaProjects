@@ -50,7 +50,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ArrayCreateFindCalculateSort">
+  <component name="RunManager" selected="Application.DoubleArray">
     <configuration name="ArrayCreateFindCalculateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L004_ArrayCreateFindCalculateSort.ArrayCreateFindCalculateSort" />
       <module name="JavaProjects" />
@@ -77,19 +77,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CycleDisplayNumbersInConsole1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CycleDisplayNumbersInConsole1" />
-      <module name="JavaProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DisplayNumbersInConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L002_DisplayNumbersInConsole.DisplayNumbersInConsole" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="L002_DisplayNumbersInConsole.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L005_DoubleArray.DoubleArray" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L005_DoubleArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleArray" />
         <item itemvalue="Application.ArrayCreateFindCalculateSort" />
         <item itemvalue="Application.CycleDisplayNumbersInConsole1" />
         <item itemvalue="Application.DisplayNumbersInConsole" />
         <item itemvalue="Application.lScaner" />
-        <item itemvalue="Application.CycleDisplayNumbersInConsole1 (1)" />
       </list>
     </recent_temporary>
   </component>
