@@ -2,7 +2,7 @@ package L006_Scaner;
 
 import java.util.Scanner;
 
-public class lScaner {
+public class learnScaner {
     public static void main(String[] args) {
 
         System.out.println("Please, type something:");

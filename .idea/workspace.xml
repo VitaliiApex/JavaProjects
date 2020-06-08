@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lScaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L006_Scaner.lScaner" />
+    <configuration name="learnScaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L006_Scaner.learnScaner" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -135,7 +135,7 @@
         <item itemvalue="Application.ArrayCreateFindCalculateSort" />
         <item itemvalue="Application.CycleDisplayNumbersInConsole1" />
         <item itemvalue="Application.DisplayNumbersInConsole" />
-        <item itemvalue="Application.lScaner" />
+        <item itemvalue="Application.learnScaner" />
       </list>
     </recent_temporary>
   </component>
