@@ -1,6 +1,6 @@
 package L003_CycleDisplayNumbersInConsole;
 
-public class CycleDisplayNumbersInConsole {
+public class CycleDisplayNumbersInConsole1 {
 
     public static void main(String[] args) {
 
