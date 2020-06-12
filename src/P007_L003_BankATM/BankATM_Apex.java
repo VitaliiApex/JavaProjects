@@ -1,4 +1,4 @@
-package ATMVitalii;
+package P007_L003_BankATM;
 
     import java.util.Scanner;
 
