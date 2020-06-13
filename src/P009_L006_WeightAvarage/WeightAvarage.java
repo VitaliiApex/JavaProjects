@@ -41,44 +41,7 @@ public class WeightAvarage {
                 "01.06 - 67.7,"+
                 "02.06 - 67.4,"+
                 "03.06 - 67.1,";
-     //   System.out.printf(allWeights);
-        String[] str = allWeights.split(",");
-        double[] weight = new double[str.length];
-        double sum = 0;
-        double max = 0;
-        double min;
-        double middle;
-        int count = 0;
-
-        for (int i = 0; i <str.length ; i++) {
-            str[i] = str[i].replace("?", "0");
-    //        weight[i]= Double.parseDouble(str[i].substring(str[i].indexOf("- ")+1));
-            weight[i]= Double.parseDouble(str[i].substring(8));
-             //         System.out.println(weight[i]);
-        }
-        for (int i = 0; i <weight.length ; i++) {
-            if (max<weight[i]){
-                max=weight[i];
-            }
-        }
-        min=max;
-        for (int i = 0; i <weight.length ; i++) {
-            if (weight[i]!=0 && min>weight[i]){
-                min=weight[i];
-            }
-        }
-        middle = min+((max-min)/2);
-        System.out.println("max = "+max);
-        System.out.println("min = "+ min);
-        System.out.println("middle = "+ middle);
-        for (int i = 0; i <weight.length ; i++) {
-            if(weight[i]!=0){
-                sum+=weight[i];
-                count++;
-            }
-        }
-
-        System.out.println("average = "+sum/count);
+     //
 
     }
 }
