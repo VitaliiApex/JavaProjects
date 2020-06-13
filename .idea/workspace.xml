@@ -11,6 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone">
+      <change afterPath="$PROJECT_DIR$/src/P008_L005_GameGuessNumber/GameGuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P009_L006_WeightAvarage/WeightAvarage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/P007_L003_BankATM/BankATM_Apex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P007_L003_BankATM/BankATM_Apex.java" afterDir="false" />
     </list>
@@ -46,13 +48,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BankATM_Apex">
-    <configuration name="ArrayCreateFindCalculateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P004_L003_ArrayCreateFindCalculateSort.ArrayCreateFindCalculateSort" />
+  <component name="RunManager" selected="Application.GameGuessNumber">
+    <configuration name="BankATM_Apex (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P007_L003_BankATM.BankATM_Apex" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P004_L003_ArrayCreateFindCalculateSort.*" />
+          <option name="PATTERN" value="P007_L003_BankATM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayNumbersInConsoleByCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P003_L002_DisplayNumbersInConsoleByCycle.DisplayNumbersInConsoleByCycle" />
+    <configuration name="GameGuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P008_L005_GameGuessNumber.GameGuessNumber" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P003_L002_DisplayNumbersInConsoleByCycle.*" />
+          <option name="PATTERN" value="P008_L005_GameGuessNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P005_L003_DoubleArray.DoubleArray" />
+    <configuration name="WeightAvarage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P009_L006_WeightAvarage.WeightAvarage" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P005_L003_DoubleArray.*" />
+          <option name="PATTERN" value="P009_L006_WeightAvarage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameGuessNumber" />
+        <item itemvalue="Application.WeightAvarage" />
+        <item itemvalue="Application.BankATM_Apex (1)" />
         <item itemvalue="Application.BankATM_Apex" />
         <item itemvalue="Application.learnScaner" />
-        <item itemvalue="Application.DoubleArray" />
-        <item itemvalue="Application.ArrayCreateFindCalculateSort" />
-        <item itemvalue="Application.DisplayNumbersInConsoleByCycle" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591598577152</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ProjectDone">
+      <created>1591947216081</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591947216082</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,30 +293,30 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="113" y="125" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1591544047745" />
-    <state width="1357" height="267" key="GridCell.Tab.0.bottom" timestamp="1591598359066">
+    <state width="1638" height="267" key="GridCell.Tab.0.bottom" timestamp="1592016558539">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1357" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591598359066" />
-    <state width="1357" height="267" key="GridCell.Tab.0.center" timestamp="1591598359065">
+    <state width="1638" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592016558539" />
+    <state width="1638" height="267" key="GridCell.Tab.0.center" timestamp="1592016558538">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1357" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591598359065" />
-    <state width="1357" height="267" key="GridCell.Tab.0.left" timestamp="1591598359065">
+    <state width="1638" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592016558538" />
+    <state width="1638" height="267" key="GridCell.Tab.0.left" timestamp="1592016558537">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1357" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591598359065" />
-    <state width="1357" height="267" key="GridCell.Tab.0.right" timestamp="1591598359066">
+    <state width="1638" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592016558537" />
+    <state width="1638" height="267" key="GridCell.Tab.0.right" timestamp="1592016558539">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1357" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591598359066" />
+    <state width="1638" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592016558539" />
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor" timestamp="1591543806991">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1591543806991" />
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1591598667565">
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1591999918868">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591598667565" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591999918868" />
     <state x="30" y="147" key="new project wizard" timestamp="1591541878558">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

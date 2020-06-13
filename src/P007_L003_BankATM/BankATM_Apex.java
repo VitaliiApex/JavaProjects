@@ -29,7 +29,7 @@ public class BankATM_Apex {
                 case "2": {
                     System.out.print("How match would you like to add? ");
                     int addMoney = sc.nextInt();
-                    balance +=addMoney;
+                    balance = balance + addMoney;
                     if (transactionIndex < transaction2.length){
                         transaction1[transactionIndex] = "add Money";
                         transaction2[transactionIndex] = addMoney;
@@ -47,7 +47,7 @@ public class BankATM_Apex {
                         balance -= withdraw;
                         if (transactionIndex < transaction2.length){
                             transaction1[transactionIndex] = "withdraw";
-                            transaction2[transactionIndex] -= withdraw;
+                            transaction2[transactionIndex] = balance - withdraw;
                             transaction3[transactionIndex] = balance;
                             transactionIndex++;}
                         System.out.println("Transaction was successful");
