@@ -6,7 +6,7 @@ public class GameGuessNumber {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        int random = (int) (Math.random() * 10);
+        int random = (int) (Math.random() * 100);
         //System.out.println("random = " + random);
 
         System.out.println("Let's start the Game");
