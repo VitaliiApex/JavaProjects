@@ -64,7 +64,7 @@ public class ArrayCreateFindCalculateSort {
         // Sort array "manually":
         // int [] anyNameNumbers = {12, 4, 3, 25, 22, 1};
 
-        for (int w = 0; w < anyNameNumbers.length; w++) {   // "int w = 0;" - go to first index, which has number "2" inside in  our example; "w++" each time after operation add one index, so go to next index; "w < anyNameNumbers.length;" - make sure our index is not more than our maximum (the last) index;
+        for (int w = 0; w < anyNameNumbers.length; w++) {   // "int w = 0;" - go to first index, which has number "12" inside in  our example; "w++" each time after operation add one index, so go to next index; "w < anyNameNumbers.length;" - make sure our index is not more than our maximum (the last) index;
             for (int e = w + 1; e < anyNameNumbers.length; e++) {   // "int e = w + 1;" - to compare two indexes, we should create "e" which is just some other index (not first), so let go the next ("e = w + 1")
                 if (anyNameNumbers[w] > anyNameNumbers [e]) {  // here we are compering two indexes to get result "true"/"false". If we will want to sort from big number to small, we can just change to "<".
                     int num = anyNameNumbers[w];   // (!) very important part: we are creating "int num" to make a reserve copy of number from the index pointed by [w]
