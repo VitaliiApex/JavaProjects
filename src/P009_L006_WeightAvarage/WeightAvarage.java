@@ -42,19 +42,56 @@ public class WeightAvarage {
                 "02.06 - 67.4," +
                 "03.06 - 67.1,";
 
-        String[] str = allWeights.split(",");
-        double[] weight = new double[str.length];
-        double sum = 0;
-        int count = 0;
+        int numberOfValidPairs = 0;
+        double avg = 0;
 
-        for (int i = 0; i < weight.length; i++) {
-            if (weight[i] != 0) {
-                sum += weight[i];
-                count++;
+        double min = 0;
+//        double min = Double.parseDouble(allWeights.split(",")[0].split(" - ")[1]);
+        double max = 0;
+
+        boolean init = true;
+
+        String[] pairs = allWeights.split(",");
+        for (int i = 0; i < pairs.length; i++) {
+            String pair = pairs[i];
+            if (!pair.contains("?")) {
+                String[] splitPair = pair.split(" - ");
+                double weight = Double.parseDouble(splitPair[1]);
+                if (init) {
+                    min = weight;
+                    max = weight;
+                    init = false;
+                }
+                numberOfValidPairs++;
+                avg += weight;
+                if (max < weight) {
+                    max = weight;
+                }
+                if (min > weight) {
+                    min = weight;
+                }
             }
         }
 
-        System.out.println("Average = " + sum / count);
+        System.out.println("numberOfValidPairs = " + numberOfValidPairs);
+        System.out.println("max = " + max);
+        System.out.println("min = " + min);
+        System.out.println("middle = " + avg / numberOfValidPairs);
+
+
+//        String[] str = allWeights.split(",");
+//        double[] weight = new double[str.length];
+//        double sum = 0;
+//        int count = 0;
+//
+//        for (int i = 0; i < weight.length; i++) {
+//            if (weight[i] != 0) {
+//                sum += weight[i];
+//                count++;
+//            }
+//        }
+//
+//        System.out.println("Average = " + sum / count);
 
     }
 }
