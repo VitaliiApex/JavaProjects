@@ -7,14 +7,14 @@ package P010_L007_Rectangle;
 
             Scanner sc = new Scanner(System.in);
 
-            System.out.println("Welcome to our area & perimeter of Rectangle Calculator");
-            System.out.println("Add your width :");
+            System.out.println("Rectangle Calculator");
+            System.out.println("Add width:");
             int width = sc.nextInt();
-            System.out.println("Add your length :");
+            System.out.println("Add length:");
             int length = sc.nextInt();
             Rectangle customRectangle = new Rectangle(width,length);
-            System.out.println("width = "+customRectangle.width);
-            System.out.println("length = "+ customRectangle.length);
+            System.out.println("Width = "+customRectangle.width);
+            System.out.println("Length = "+ customRectangle.length);
             customRectangle.areaOfRectangle();
             customRectangle.perimeterOfRectangle();
         }
