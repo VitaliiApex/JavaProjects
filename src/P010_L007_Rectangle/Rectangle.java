@@ -10,10 +10,11 @@ public class Rectangle {
             public Rectangle() {
             }
 
-            public Rectangle(int a, int b) {
-                width = a;
-                length = b;
+            public Rectangle(int Width, int Length) {
+                width = Width;
+                length = Length;
             }
+
             public void areaOfRectangle() {
                 int area = width * length;
                 System.out.println("Area = "+ area);
@@ -24,6 +25,5 @@ public class Rectangle {
                 System.out.println("Perimeter = " + perimeter);
             }
 
-
-    }
 }
+
