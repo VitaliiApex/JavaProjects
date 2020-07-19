@@ -10,9 +10,9 @@ public class Rectangle {
             public Rectangle() {
             }
 
-            public Rectangle(int width, int length) {
-                this.width = width;
-                this.length = length;
+            public Rectangle(int a, int b) {
+                width = a;
+                length = b;
             }
             public void areaOfRectangle() {
                 int area = width * length;

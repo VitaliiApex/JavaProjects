@@ -15,6 +15,7 @@ package P010_L007_Rectangle;
             Rectangle customRectangle = new Rectangle(width,length);
             System.out.println("Width = "+customRectangle.width);
             System.out.println("Length = "+ customRectangle.length);
+
             customRectangle.areaOfRectangle();
             customRectangle.perimeterOfRectangle();
         }
