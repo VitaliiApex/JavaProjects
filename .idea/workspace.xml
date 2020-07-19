@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P010_L007_Rectangle/P010_L007_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P010_L007_Rectangle/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +45,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.P010_L007_Rectangle">
-    <configuration name="ArrayCreateFindCalculateSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P004_L003_ArrayCreateFindCalculateSort.ArrayCreateFindCalculateSort" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P004_L003_ArrayCreateFindCalculateSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DoubleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P005_L003_DoubleArray.DoubleArray" />
       <module name="JavaProjects" />
@@ -72,8 +59,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P010_L007_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P010_L007_Rectangle.P010_L007_Rectangle" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P010_L007_Rectangle.Main" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P010_L007_Rectangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P010_L007_Rectangle.Rectangle" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.P010_L007_Rectangle" />
         <item itemvalue="Application.WeightAvarage" />
         <item itemvalue="Application.learnScaner" />
         <item itemvalue="Application.DoubleArray" />
-        <item itemvalue="Application.ArrayCreateFindCalculateSort" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595106324328</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="ProjectDone">
+      <created>1595165140183</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1595165140184</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,10 +360,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1591543806991" />
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1595106337269">
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1595165148389">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1595106337269" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1595165148389" />
     <state x="30" y="147" key="new project wizard" timestamp="1591541878558">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

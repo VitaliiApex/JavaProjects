@@ -2,15 +2,9 @@ package P010_L007_Rectangle;
 
 import java.awt.*;
 
-public class P010_L007_Rectangle {
-    public static void main(String[] args) {
+public class Rectangle {
 
-        Rectangle ab = new Rectangle ();
-
-        public class Rectangle {
-            private static final int width;
-            private static final int length;
-            int width = 0;
+    int width = 0;
             int length = 0;
 
             public Rectangle() {
@@ -18,8 +12,8 @@ public class P010_L007_Rectangle {
             }
 
             public Rectangle(int width, int length) {
-                Rectangle.width = width;
-                Rectangle.length = length;
+                this.width = width;
+                this.length = length;
             }
             public void areaOfRectangle() {
                 int area = width * length;
