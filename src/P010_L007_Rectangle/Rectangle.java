@@ -8,6 +8,8 @@ public class Rectangle {
         int length = 0;
 
             public Rectangle() {
+                this.width = 5;
+                this.length = 10;
             }
 
             public Rectangle(int Width, int Length) {
