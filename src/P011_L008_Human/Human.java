@@ -22,7 +22,7 @@ public class Human {
 
     public void setFood(String food) {
         int random = (int) (Math.random() * 10);
-        this.food = getName() + " have to eat " + random + "kg of " + food.substring(food.indexOf(" ") + 1);
+        this.food = getName() + " has to eat " + random + "kg of " + food.substring(food.indexOf(" ") + 1);
         System.out.println(this.food);
     }
 
