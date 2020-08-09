@@ -10,7 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone" />
+    <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone">
+      <change afterPath="$PROJECT_DIR$/src/P012_L009_Robot/CoffeeRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P012_L009_Robot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P012_L009_Robot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P012_L009_Robot/RobotCooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P012_L009_Robot/RobotDancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +50,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="DoubleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P005_L003_DoubleArray.DoubleArray" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P011_L008_Human.Main" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P005_L003_DoubleArray.*" />
+          <option name="PATTERN" value="P011_L008_Human.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P011_L008_Human.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P012_L009_Robot.Main" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P011_L008_Human.*" />
+          <option name="PATTERN" value="P012_L009_Robot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.WeightAvarage" />
         <item itemvalue="Application.learnScaner" />
-        <item itemvalue="Application.DoubleArray" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595711087157</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="ProjectDone">
+      <created>1595711562189</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1595711562189</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -387,30 +401,30 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="113" y="125" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1591544047745" />
-    <state width="1403" height="177" key="GridCell.Tab.0.bottom" timestamp="1595710688069">
+    <state width="1335" height="197" key="GridCell.Tab.0.bottom" timestamp="1596154599333">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1403" height="177" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1595710688069" />
-    <state width="1403" height="177" key="GridCell.Tab.0.center" timestamp="1595710688068">
+    <state width="1335" height="197" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1596154599333" />
+    <state width="1335" height="197" key="GridCell.Tab.0.center" timestamp="1596154599332">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1403" height="177" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1595710688068" />
-    <state width="1403" height="177" key="GridCell.Tab.0.left" timestamp="1595710688067">
+    <state width="1335" height="197" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1596154599332" />
+    <state width="1335" height="197" key="GridCell.Tab.0.left" timestamp="1596154599330">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1403" height="177" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1595710688067" />
-    <state width="1403" height="177" key="GridCell.Tab.0.right" timestamp="1595710688068">
+    <state width="1335" height="197" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1596154599329" />
+    <state width="1335" height="197" key="GridCell.Tab.0.right" timestamp="1596154599332">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1403" height="177" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1595710688068" />
+    <state width="1335" height="197" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1596154599332" />
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor" timestamp="1591543806991">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1591543806991" />
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1595711130795">
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1595711586842">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1595711130795" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1595711586842" />
     <state x="30" y="147" key="new project wizard" timestamp="1591541878558">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
