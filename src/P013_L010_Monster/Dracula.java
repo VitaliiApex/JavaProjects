@@ -7,7 +7,7 @@ public class Dracula extends HorribleMonster implements Monster{
 
     @Override
     public void destroy() {
-        System.out.println("I'm Dracula and i destroy something");
+        System.out.println("I'm Dracula and I destroy something");
     }
 
     @Override

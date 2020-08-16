@@ -11,14 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="ProjectDone">
-      <change afterPath="$PROJECT_DIR$/src/P013_L010_Monster/Dracula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P013_L010_Monster/Godzilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P013_L010_Monster/HorribleMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P013_L010_Monster/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P013_L010_Monster/MainMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P013_L010_Monster/Monster.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/P012_L009_Robot/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/P012_L009_Robot/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +45,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P011_L008_Human.Main" />
       <module name="JavaProjects" />
@@ -72,6 +65,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="P012_L009_Robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P013_L010_Monster.Main" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P013_L010_Monster.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnScaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P006_L003_learnScaner.learnScaner" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P006_L003_learnScaner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.WeightAvarage" />
-        <item itemvalue="Application.learnScaner" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596981276068</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="ProjectDone">
+      <created>1597585439066</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1597585439066</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,10 +437,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1591543806991" />
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1596981297037">
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1597585445233">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596981297037" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1597585445233" />
     <state x="30" y="147" key="new project wizard" timestamp="1591541878558">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

@@ -7,7 +7,7 @@ public class Godzilla extends HorribleMonster implements Monster {
 
     @Override
     public void destroy() {
-        System.out.println("I'm Godzilla and i destroy something");
+        System.out.println("I'm Godzilla and I destroy something");
     }
 
     @Override
