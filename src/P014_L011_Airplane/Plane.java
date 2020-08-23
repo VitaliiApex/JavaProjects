@@ -8,11 +8,11 @@ package P014_L011_Airplane;
 //    takeoffPlane(), який скільки пролетить літак кілометрів на повному баку палива. Генеруємо випадкове число від 0 до 1000;
 //    landingPlane(), який виводить на екран що літак іде на посадку;
         public void startEngines (){
-            int startEnginTime = (int) ((Math.random() * (88 - 20)) + 20);
+            int startEnginTime = (int) ((Math.random() * 100);
             System.out.println(startEnginTime + " minutes left to fly out");
         }
         public void takeoffPlane (){
-            int takeoffPlaneDistance = (int) ((Math.random() * (1000 - 0)) + 0);
+            int takeoffPlaneDistance = (int) ((Math.random() * 100);
             System.out.println("The plane will fly: " + takeoffPlaneDistance + " km on a full tank of fuel");
         }
         public void landingPlane (){

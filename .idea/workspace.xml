@@ -10,16 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="Done">
-      <change afterPath="$PROJECT_DIR$/src/P014_L011_Airplane/AirplaneControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P014_L011_Airplane/AirplaneControlInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P014_L011_Airplane/CY_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P014_L011_Airplane/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P014_L011_Airplane/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/AnyMain/AnyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/AnyMain/AnyMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnyMain/AnyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnyMain/AnyMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="76bedfee-0fa1-4fbb-8f29-e2917f715ffc" name="Default Changelist" comment="Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -405,7 +396,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597587662099</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Done">
+      <created>1598129710208</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1598129710208</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Done">
+      <created>1598129949287</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1598129949287</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,10 +457,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="124" y="106" width="1299" height="837" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1591543806991" />
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1597587667889">
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2" timestamp="1598129959762">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1597587667889" />
+    <state x="117" y="283" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1598129959762" />
     <state x="30" y="147" key="new project wizard" timestamp="1591541878558">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

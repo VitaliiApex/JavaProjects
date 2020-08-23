@@ -40,7 +40,7 @@ package P014_L011_Airplane;
 
         @Override
         public void nuclearStrike() {
-            int nuclearNumber = (int) ((Math.random() * (10 - 1)) + 1);
+            int nuclearNumber = (int) ((Math.random() * (5 - 3)) + 3);
             System.out.println(nuclearNumber + " nuclear warheads will be dropped");
 
 
