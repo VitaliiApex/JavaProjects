@@ -1,11 +1,11 @@
 package P014_L011_Airplane;
 
-    public class CY_27 extends AirplaneControl implements AirplaneControlInterface {
+    public class CY27 extends AirplaneControl implements AirplaneControlInterface {
 
         int speed;
         String color;
 
-        public CY_27(int length, int width, int weight, int speed, String color) {
+        public CY27(int length, int width, int weight, int speed, String color) {
             super(length, width, weight);
             this.speed = speed;
             this.color = color;

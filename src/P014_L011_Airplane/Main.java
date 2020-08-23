@@ -3,7 +3,7 @@ package P014_L011_Airplane;
     public class Main {
         public static void main(String[] args) {
 
-            CY_27 cy_27 = new CY_27(72,48,36,1200,"White");
+            CY27 cy_27 = new CY27(72,48,36,1200,"White");
             System.out.println(cy_27);
             cy_27.startEngines();
             cy_27.takeoffPlane();
